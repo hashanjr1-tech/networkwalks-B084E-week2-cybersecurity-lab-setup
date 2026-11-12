@@ -1,3 +1,4 @@
+
 # NETWORKWALKS-HASHAN-B084-WK2-PENETRATION-TESTING-REPORT
 
 ### Footprinting & Reconnaissance
@@ -129,6 +130,8 @@ During Week 2 of my Cybersecurity & Ethical Hacking internship, I completed prac
 <img width="1919" height="790" alt="wafw00f" src="https://github.com/user-attachments/assets/f38dd99d-4b76-4685-b7e1-a1a71404b9a2" />
 
 <img width="1919" height="915" alt="theharvester" src="https://github.com/user-attachments/assets/2f0b14ab-8ea7-48bc-b38e-c9c19d4d386b" />
+
+<img width="1919" height="734" alt="nmap" src="https://github.com/user-attachments/assets/72f0bf64-3345-449c-ab85-7bc5eca0dbff" />
 
 
 ---
